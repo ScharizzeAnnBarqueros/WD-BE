@@ -16,8 +16,7 @@ include("php/navbar.php");
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="icon" href="assets/img/logo.png">
-
+  <link rel="icon" href="assets/img/Frame 1.png" >
 
   <style>
     h1,
